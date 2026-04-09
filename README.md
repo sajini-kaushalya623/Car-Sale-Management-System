@@ -1,2 +1,1 @@
-# Car-Sale-Management-System
 
